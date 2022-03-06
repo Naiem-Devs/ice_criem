@@ -71,13 +71,14 @@
         }
         .hero_img img{
         max-width: 314px;
+        margin-top: 0;
         }
         .ice_cream_form {
-            right: 13px;
+            right: 0;
             width: 382px;
             padding: 30px;
             height: auto !important;
-            top: -6%;
+            top: -34%;
         }
         .ice_cont {
             max-width: 334px;
@@ -196,6 +197,7 @@
         }
         .hero_img img{
         max-width: 260px;
+        margin-top: 0;
         }
         .ice_cream_form {
             right: 13px;

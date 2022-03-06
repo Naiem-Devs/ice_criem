@@ -171,8 +171,7 @@ ul#nav{width: max-content;}
 section.hero_area .row {
     align-items: center;
 }
-.container {
-}
+.container {position: relative;}
 .hero_cont {
 }
 
@@ -219,7 +218,7 @@ section.hero_area .row {
 }
 
 .hero_img img {
-    margin-top: 8px;
+    margin-top: -90px;
     margin-bottom: 30px;
 }
 
@@ -264,7 +263,7 @@ section.ice_cream:before {
     font-weight: 500;
     margin-bottom: 20px;
 }
-.ice_cream_form {background: #FFFFFF 0% 0% no-repeat padding-box;box-shadow: 5px 6px 9px #00000029;border-radius: 20px;width: 510px;height: 520px;padding: 50px 30px;position: absolute;top: -100px;z-index: 99;transition: .3s;}
+.ice_cream_form {background: #FFFFFF 0% 0% no-repeat padding-box;box-shadow: 5px 6px 9px #00000029;border-radius: 20px;width: 510px;height: 520px;padding: 50px 30px;position: absolute;top: -143px;z-index: 99;transition: .3s;right: 0;}
 
 .ice_cream_form.next {
     height: 640px;
